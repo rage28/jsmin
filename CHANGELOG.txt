@@ -1,7 +1,14 @@
 Changelog
 =========
 
-v3.0.0 (2021-09-08) Ben Bradshaw
+v3.0.0 (Not Yet Released) (2021-09-08) Ben Bradshaw
+--------------------------------
+
+- Breaking Change: Removed support for Python 2
+
+- Removed usage of use_2to3 in setup.py
+
+v2.2.3 (2021-09-14) Raghavendra Bhuvan
 --------------------------------
 
 - Breaking Change: Removed support for Python 2
