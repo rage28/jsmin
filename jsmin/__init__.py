@@ -29,7 +29,7 @@
 import io
 
 __all__ = ['jsmin', 'JavascriptMinify']
-__version__ = '3.0.0'
+__version__ = '2.2.3'
 
 
 def jsmin(js, **kwargs):
